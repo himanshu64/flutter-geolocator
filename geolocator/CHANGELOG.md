@@ -1,3 +1,7 @@
+## 6.1.5
+
+- Improved the example app to minimize code that is not relevant.
+
 ## 6.1.4
 
 - When available return the floor on which the devices is located (see [#562](https://github.com/Baseflow/flutter-geolocator/issues/562));
